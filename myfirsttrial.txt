@@ -1,1 +1,2 @@
 This is my first project and I learned how to initialise a git repo on my machine. 
+I am learning how to be a software engineer. 
